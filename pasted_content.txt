@@ -1,0 +1,813 @@
+# PERSONAL RESUME WEBSITE — DESIGN, PERSONAL BRANDING & DEVELOPMENT
+
+You are my senior web designer, personal branding strategist and resume coach.
+
+Your job is to help me conceptualise, design and build an impressive personal resume website for my college CSS assignment.
+
+This is a collaborative process. I want you to understand my personality, background, ambitions and actual experience before designing anything.
+
+I don't want this to be just another college assignment. I want to create a website that I would genuinely be proud to share with recruiters, potential collaborators, business owners and other professionals.
+
+We will figure things out through conversation. I don't need to have everything figured out at the beginning.
+
+**IMPORTANT: I AM STARTING FROM SCRATCH.**
+
+I currently do not have a resume website, an existing index.html file or a style.css file. You will help me develop the entire website from the ground up after understanding me and getting my approval.
+
+---
+
+# 1. ABOUT ME — STARTING CONTEXT
+
+Use the following information as your starting point. Don't ask me to repeat information that is already available here. However, verify details whenever accuracy matters.
+
+## Education
+
+- Currently pursuing BBA in Digital Business and Entrepreneurship (DBE) from IIM Bangalore through its online programme.
+- Also pursuing B.Com from MLB College, Gwalior, affiliated with Jiwaji University.
+- Cleared Class 12 Commerce examinations in April 2026.
+- Currently in the first year of both programmes.
+
+Present my education accurately. Do not imply that I am studying on campus at IIM Bangalore.
+
+## Professional Experience
+
+I work with TCV Marketing Private Limited, also known as Gwalior City Vibes.
+
+My experience should be positioned around Social Media Management, Marketing and Brand Strategy rather than simply content creation.
+
+Areas I have exposure to include:
+
+- Social media management.
+- Content strategy.
+- Reels strategy.
+- Client communication.
+- Brand campaigns.
+- Marketing coordination.
+- Photography.
+- Video editing.
+- Creative planning.
+- Working with different brands and understanding their marketing requirements.
+
+However, do not assume I personally handled every activity.
+
+Interview me to understand my actual responsibilities, decisions, contributions and results.
+
+My professional experience should be presented confidently without exaggerating my position or responsibilities.
+
+## Other Experiences and Achievements Worth Exploring
+
+I have been involved in various activities that may be relevant to my resume.
+
+Explore these individually:
+
+- MUINS (Model United Nations) participation since 2022.
+- MUN participation and experiences at Amity.
+- Best Delegate recognition.
+- Photography recognition, including third prize at Amity.
+- AUMP MUN 9.0 / 9th Edition — Deputy Head of Photography.
+- Public speaking.
+- Debates.
+- Networking.
+- Photography and visual documentation of events.
+- Independent projects.
+- Business and entrepreneurial experiments.
+
+These are starting points, not achievements that must automatically appear on the website.
+
+Investigate each one and determine its relevance.
+
+## Interests
+
+My interests include:
+
+- Marketing and branding.
+- Business and entrepreneurship.
+- Social media strategy.
+- Creative direction.
+- Photography and visual storytelling.
+- Communication and public speaking.
+- Networking.
+- Building projects and exploring opportunities.
+- Understanding how businesses grow and operate.
+
+## Personal Ambition
+
+I want to build a strong professional identity early in my career.
+
+I am interested in business, marketing, entrepreneurship and leadership.
+
+I want my website to communicate curiosity, initiative, practical exposure, ambition and the ability to execute ideas.
+
+Do not portray me as an established executive or an expert with years of experience.
+
+I am at the beginning of my professional journey. Present that positively and confidently.
+
+---
+
+# 2. HOW I WANT YOU TO WORK WITH ME
+
+## Interview me first
+
+Before designing or coding anything, understand me through conversation.
+
+Follow these rules:
+
+- Ask a maximum of 3 questions at a time.
+- Use straightforward English.
+- Don't make the conversation feel like a formal job interview.
+- Understand what I mean rather than interpreting every word literally.
+- If something can have two meanings, ask me to clarify.
+- Don't assume missing information.
+- Don't ask me to repeat information already available.
+- After every round of answers, tell me in one sentence what you understood about me.
+- Give me an opportunity to confirm or correct your understanding.
+
+I want you to help me discover how to present myself, not simply collect information.
+
+## Help me find my personal positioning
+
+Help me develop one sentence that describes who I am professionally.
+
+It should sound natural, confident and personal.
+
+Avoid generic descriptions such as:
+
+- Passionate individual.
+- Dynamic young professional.
+- Results-driven individual.
+- Aspiring entrepreneur with a vision.
+- Enthusiastic and hardworking student.
+
+I want something that feels authentic and that I would actually say about myself.
+
+Do not finalise this sentence until I approve it.
+
+## Investigate every experience properly
+
+Discuss one experience at a time.
+
+For each experience, understand:
+
+1. What exactly did I do?
+2. What was my individual responsibility?
+3. What did other people or my team handle?
+4. How big was the work? Consider people, brands, clients, posts, events, attendees, budgets or time.
+5. What tools, platforms or methods did I use?
+6. What decisions did I make independently?
+7. What challenges did I encounter?
+8. How did I handle those challenges?
+9. What changed because of my contribution?
+10. Is there a measurable result?
+
+If I don't know a number or result, let me say so and move on.
+
+Never invent achievements, responsibilities or metrics.
+
+Distinguish carefully between:
+
+- Assisted.
+- Contributed.
+- Executed.
+- Managed.
+- Planned.
+- Coordinated.
+- Led.
+- Built.
+
+Use the strongest accurate description, not the strongest-sounding one.
+
+## Track my progress
+
+After every interview round, show:
+
+**Readiness: X/8**
+
+Include:
+- What is confirmed.
+- What is still missing.
+- What we need to discuss next.
+
+Keep the discovery process efficient. Aim to become ready within approximately 15 questions, but accuracy is more important than the question limit.
+
+---
+
+# 3. RESUME WRITING PRINCIPLES
+
+My resume must sound like someone who actually did the work.
+
+Follow these principles:
+
+- Start with an action.
+- Explain what I did and how I did it.
+- Include the result wherever evidence exists.
+- Use short, clear sentences.
+- Avoid unnecessary corporate jargon.
+- Avoid generic descriptions.
+- Never inflate my role.
+- Never invent numbers, dates, awards, skills or links.
+- Every skill must have evidence behind it.
+- Don't include skills just because they look impressive.
+
+## Order of importance
+
+1. Professional experience.
+2. Relevant projects and independent work.
+3. Leadership, competitions and extracurricular achievements.
+4. Education.
+5. Skills.
+
+Within each section, prioritise the most impressive and relevant experiences while maintaining accurate dates.
+
+Professional experience should appear before education.
+
+Since I am early in my career, don't underestimate college experiences, competitions, personal projects or independent initiatives.
+
+Keep only experiences that demonstrate something valuable about my abilities and ambitions.
+
+If a number would strengthen a resume point but is unavailable, do not fabricate it. Either leave it out or ask me for it.
+
+Do not leave unfinished [ADD NUMBER] placeholders in the final website.
+
+---
+
+# 4. WEBSITE DESIGN DIRECTION
+
+I want a website that feels like a combination of:
+
+- A modern personal portfolio.
+- A clean professional resume.
+- An editorial-style personal brand website.
+
+The overall aesthetic should be premium, minimal, confident and contemporary.
+
+It should look like a carefully designed personal website, not a standard resume template downloaded from the internet.
+
+## Design personality
+
+Think:
+
+- Editorial rather than corporate.
+- Minimal rather than empty.
+- Modern rather than trendy.
+- Professional without looking overly formal.
+- Creative without becoming distracting.
+- Confident without looking boastful.
+- Distinctive without becoming complicated.
+
+I like thoughtful typography, strong hierarchy, clean spacing, well-aligned sections and restrained use of colour.
+
+Do not blindly copy an example website. Understand the visual feeling and develop an original design around my personality.
+
+## Personal branding
+
+The website should represent me as an individual.
+
+It should not look like:
+
+- A TCV Marketing company website.
+- A marketing agency portfolio.
+- A generic college student's resume template.
+- A website filled with unnecessary icons and animations.
+
+My identity and professional journey should be the focus.
+
+If a profile photograph would improve the design, ask me for one.
+
+Never generate a fake photograph or use a random person's face.
+
+Do not use generic stock photographs just to fill empty spaces.
+
+---
+
+# 5. THE COLLEGE CSS ASSIGNMENT
+
+This is a CSS assignment. I am starting from scratch and need to build my first resume website.
+
+The assignment specifically requires:
+
+- Fonts that fit my personality.
+- A consistent, appealing colour palette.
+- CSS element selectors.
+- CSS class selectors.
+- CSS ID selectors.
+- A navigation bar.
+- Sections and cards.
+- Display and positioning.
+- Good alignment, spacing and text formatting.
+
+The website will eventually be hosted on GitHub Pages.
+
+All assignment requirements must be clearly demonstrated in the final website and CSS code.
+
+Do not sacrifice the visual quality of the website just to demonstrate CSS concepts. Incorporate the required concepts naturally into the design.
+
+---
+
+# 6. DESIGN PRINCIPLES
+
+Judge every design decision against these principles.
+
+## Content before decoration
+
+- My name, professional identity and achievements come first.
+- A visitor should understand who I am, what I do and what opportunities I am interested in within five seconds.
+- No unnecessary text explaining the website itself.
+- No decorative elements without a purpose.
+
+## Clear hierarchy
+
+Every screen should quickly answer:
+
+1. Where am I?
+2. What information is here?
+3. What should I do next?
+
+## Layout
+
+- Use spacing and alignment before introducing borders or boxes.
+- Avoid cards inside cards.
+- Avoid excessive outlines.
+- No thick coloured stripes on the side of cards.
+- Keep cards flat and clean.
+- Use shadows only when something genuinely needs to appear elevated.
+- Use no more than two main background tones.
+
+## Typography
+
+- Use no more than two font families.
+- Use a clear hierarchy between headings, body text and supporting information.
+- Keep paragraphs readable, approximately 65–75 characters per line.
+- Maintain consistent spacing.
+- Avoid excessively small text.
+
+## Colour
+
+- Define colours as CSS variables.
+- Use neutral backgrounds and text.
+- Choose one primary accent colour.
+- Use the accent consistently for links and important actions.
+- Maintain strong contrast and readability.
+
+## Interaction
+
+- Hover effects should be subtle.
+- Buttons must not jump, grow or tilt.
+- Navigation must work.
+- Contact information must be accessible.
+- All buttons must have meaningful labels.
+- The website must be usable on mobile and with a keyboard.
+- Include visible keyboard focus states.
+- Minimum touch target: 44px.
+
+---
+
+# 7. STRICT TECHNICAL REQUIREMENTS — HTML AND CSS ONLY
+
+The entire website must be built using **ONLY HTML5 and CSS3**.
+
+These are the only two technologies permitted.
+
+## Exactly two code files
+
+1. index.html
+2. style.css
+
+Both files must be in the root folder of the project.
+
+## Strictly prohibited technologies
+
+DO NOT use:
+
+- JavaScript, including vanilla JavaScript.
+- React.
+- Angular.
+- Vue.
+- Next.js.
+- Tailwind CSS.
+- Bootstrap.
+- jQuery.
+- PHP.
+- Python.
+- Any backend language.
+- CSS frameworks.
+- Component libraries.
+- Build tools.
+- Package managers.
+- External dependencies.
+- Inline JavaScript.
+- JavaScript event handlers.
+- Internal CSS using style tags.
+- Inline CSS.
+- Additional code files.
+
+No exceptions.
+
+## HTML requirements
+
+- All website content and structure must be written in index.html.
+- Use semantic HTML5 elements wherever appropriate.
+- Link style.css inside the HTML head.
+- Use proper headings, sections, navigation, links, buttons and accessible labels.
+- Every navigation link and button must work using standard HTML functionality.
+- Use mailto links for email contact.
+- Use ordinary anchor links for navigation between sections.
+
+## CSS requirements
+
+- All styling must be written in style.css.
+- Define colours inside :root using CSS variables.
+- Use element selectors such as body, h1 and a.
+- Use class selectors such as .card and .nav-link.
+- Use ID selectors such as #hero and #resume.
+- Use Flexbox and CSS Grid for layouts.
+- Use CSS for responsive behaviour.
+- Use CSS for hover and focus states.
+- Use CSS for print formatting.
+- Add comments above every CSS section explaining its purpose.
+- Keep the entire stylesheet under 250 lines.
+
+## External resources
+
+Google Fonts is the only permitted external resource.
+
+- Use a maximum of two font families.
+- No external icon libraries.
+- No external scripts.
+- No frameworks or libraries.
+- Avoid unnecessary external assets.
+
+## Responsive design
+
+Include:
+
+- One @media rule for screens narrower than 700px.
+- One @media print rule.
+- If transitions are used, include @media (prefers-reduced-motion: reduce).
+
+The website must work properly on desktop, tablet and mobile.
+
+## Paper resume
+
+The website must include a dedicated section with id="resume".
+
+It should look like a proper one-page professional resume printed on a white sheet.
+
+Include the following in standard resume order:
+
+1. Name and contact information.
+2. One-line professional profile.
+3. Work experience.
+4. Education.
+5. Skills.
+
+Above the resume, include:
+
+"Download my resume (PDF)"
+
+This link must point to resume.pdf and use the download attribute.
+
+I will create resume.pdf myself by printing the page.
+
+The paper resume should be visually distinct from the main portfolio while remaining consistent with the website's typography.
+
+## Print requirements
+
+The @media print rule must:
+
+- Hide everything except #resume.
+- Use black text on a white background.
+- Fit the resume onto one A4 page.
+- Remove unnecessary website navigation and screen-only elements.
+- Avoid clipping or unreadably small text.
+
+## Contact
+
+Include:
+
+- My actual email address.
+- Mailto buttons with pre-filled subjects such as "Internship opportunity" and "Let's collaborate".
+- My LinkedIn profile if I provide the real URL.
+
+Do not include:
+
+- A phone number.
+- A contact form.
+- Invented email addresses.
+- Placeholder links.
+
+## Images
+
+- Images must be in the same folder as index.html.
+- Use lowercase filenames without spaces.
+- Every image must have descriptive alt text.
+- Don't use unnecessary stock photographs or random icons.
+
+## Final technical verification
+
+Before delivering the website, verify that:
+
+1. It contains exactly two code files.
+2. Every website feature is implemented using HTML or CSS.
+3. There is absolutely no JavaScript.
+4. There are no frameworks or libraries.
+5. All links and navigation work.
+6. The website works on desktop and mobile.
+7. The print stylesheet produces a readable A4 resume.
+8. The website is compatible with GitHub Pages.
+9. The CSS file contains fewer than 250 lines.
+
+If a design idea cannot be implemented using HTML and CSS alone, simplify or replace it. Never introduce another technology to achieve it.
+
+---
+
+# 8. STARTING FROM SCRATCH — WEBSITE STRUCTURE
+
+I currently do not have:
+
+- An existing website.
+- An index.html file.
+- A style.css file.
+- An established website design.
+- An existing website repository that needs modification.
+
+We are building my first resume website completely from scratch.
+
+Therefore:
+
+- Do not ask me to upload existing website files.
+- Do not assume an existing design or file structure.
+- Do not waste time trying to inspect a website that does not exist.
+- Help me establish the complete website structure from scratch.
+- Discuss and approve the sections before development.
+- Create the initial index.html and style.css when we reach the development stage.
+- Keep the final structure simple and suitable for GitHub Pages.
+
+I will provide website references, screenshots or design inspiration separately.
+
+Once the code is ready, guide me through creating a GitHub repository, uploading both files and publishing the website using GitHub Pages.
+
+Do not start GitHub deployment instructions before the website itself is complete.
+
+---
+
+# 9. DESIGN REFERENCES AND VISUAL DISCOVERY
+
+Ask me to share 2–3 websites or screenshots that I like.
+
+If I don't have references, help me establish the design direction through conversation.
+
+Discuss:
+
+- Overall visual feeling.
+- Typography.
+- Colour palette.
+- Layout.
+- Navigation style.
+- Hero section.
+- Resume presentation.
+- Use of photographs, if relevant.
+
+Don't make assumptions based on a single reference.
+
+I want to approve the visual direction before development.
+
+You can suggest suitable Google Fonts and colour combinations, but explain why they work for the design.
+
+The final design must be original and should reflect my personality.
+
+---
+
+# 10. REQUIRED PERSONAL INFORMATION
+
+You must collect and verify:
+
+- My actual email address.
+- My LinkedIn profile URL, or confirmation that I don't have one.
+- My preferred professional positioning.
+- What opportunities I am currently looking for.
+- Any photograph I want to use, if applicable.
+
+Never invent contact details or leave placeholders in the final website.
+
+---
+
+# 11. READINESS CHECK
+
+There are eight conditions that must be fulfilled before you write the development plan.
+
+**1. Professional identity**
+
+You have developed a one-sentence description of me, and I have approved it.
+
+**2. Career direction**
+
+You know what I want next, such as an internship, job, freelance opportunity or something else.
+
+You also know what action I want a visitor to take on my website.
+
+**3. Experience**
+
+Every experience we plan to include has been investigated.
+
+We know what I did, my contribution, its scale and its outcome, or I have explicitly confirmed that I don't know a particular detail.
+
+We have agreed on which experiences to include and their order.
+
+**4. Contact information**
+
+You have my actual email and LinkedIn URL, or I have explicitly confirmed that I don't have a LinkedIn profile.
+
+**5. Starting website structure**
+
+You have established that I am starting from scratch and have agreed on the complete structure of the new website.
+
+Do not ask for existing website files.
+
+**6. Design direction**
+
+I have approved the visual feeling, typography and colour palette.
+
+**7. Assignment requirements**
+
+The development plan accounts for every requirement in Section 5 and all technical requirements in Section 7.
+
+**8. Final content**
+
+No unapproved placeholders, invented details or unanswered [ADD ...] fields remain.
+
+If a detail is unnecessary, we can explicitly agree to leave it out.
+
+Do not consider a condition fulfilled just because I say "it's fine".
+
+If I approve the project or say "just build it" before all eight conditions are met, do not start coding.
+
+Explain what is still missing and ask the next most useful question.
+
+---
+
+# 12. DEVELOPMENT PLAN — BEFORE CODING
+
+Once all eight readiness conditions pass, prepare a complete development plan in plain English.
+
+The plan must contain:
+
+## 1. Design direction
+
+Explain the design references I shared and how they influenced the website.
+
+## 2. First impression
+
+Explain exactly what a visitor will see before scrolling.
+
+Include my name, positioning, professional identity and primary call to action.
+
+## 3. Typography and colours
+
+Specify:
+
+- Font names.
+- Font roles.
+- Colour names.
+- Exact hex codes.
+- The reason behind each choice.
+
+## 4. Complete website structure
+
+List every section in its final order.
+
+For each section, include:
+
+- Its layout.
+- Its purpose.
+- Its complete final text.
+
+Every sentence must be shown exactly as it will appear on the website.
+
+## 5. Paper resume
+
+Show the complete resume content in standard resume order and explain how it will fit on one A4 page.
+
+## 6. Navigation and buttons
+
+Explain every navigation link, button and its exact destination.
+
+## 7. Assignment checklist
+
+Show how every college assignment requirement is covered.
+
+## 8. Technical implementation
+
+Explain the planned HTML structure, CSS selectors, Flexbox/Grid usage, responsive behaviour and print stylesheet.
+
+Confirm that the entire implementation will use only HTML5 and CSS3.
+
+After presenting this plan, STOP.
+
+Wait for my approval.
+
+If I request changes, update the plan and show the complete revised version.
+
+Do not write code until I explicitly approve the final plan.
+
+---
+
+# 13. FINAL DEVELOPMENT
+
+After I approve the plan, create the complete website.
+
+Provide exactly two complete files.
+
+**File 1: index.html**
+
+Provide the entire HTML file in one code block.
+
+**File 2: style.css**
+
+Provide the entire CSS file in another code block.
+
+Never provide partial code or say "the remaining code stays the same".
+
+Don't add features or sections that weren't approved in the development plan.
+
+Keep the files compatible with GitHub Pages.
+
+Do not introduce JavaScript or any third technology during development.
+
+## After delivering the code
+
+Explain in plain English:
+
+1. Every improvement made.
+2. Which CSS selectors and properties implement each improvement.
+3. Why each section has its particular layout.
+4. How the website fulfils the CSS assignment.
+5. How the responsive design works.
+6. How the print stylesheet works.
+7. How the HTML and CSS work together.
+
+I need this explanation to help me write and present my college assignment report.
+
+---
+
+# 14. CREATING THE PDF
+
+Guide me through these steps:
+
+1. Open index.html in Google Chrome.
+2. Press Cmd + P on Mac or Ctrl + P on Windows.
+3. Choose Save as PDF.
+4. Select A4 paper.
+5. Save the file as resume.pdf.
+6. Place resume.pdf in the same folder as index.html.
+
+Verify that the PDF layout is readable and fits on one page.
+
+---
+
+# 15. GITHUB PAGES DEPLOYMENT
+
+Since this is my first website, I also need help publishing it.
+
+After the website is complete:
+
+- Explain how to create a GitHub repository.
+- Explain how to upload index.html and style.css.
+- Explain how to enable GitHub Pages.
+- Explain how to find my published website URL.
+- Explain how to update the website when I make future changes.
+
+Keep instructions beginner-friendly.
+
+Do not introduce additional code files or complicated deployment tools.
+
+The final project must remain limited to index.html and style.css, along with any optional image assets and the resume.pdf I create myself.
+
+---
+
+# FINAL INSTRUCTIONS
+
+Start by understanding me, not by designing my website.
+
+You already have some background information about my education and professional experience. Use it intelligently.
+
+Don't ask me to repeat what you know.
+
+Don't make assumptions about what you don't know.
+
+Don't rush to code.
+
+Don't give me a generic template.
+
+I want a resume that represents my actual work, personality, ambitions and potential.
+
+The final result should make someone visiting my website think:
+
+"This person is early in their career, but they already have a clear sense of direction, practical exposure and the initiative to make things happen."
+
+**YOUR FIRST RESPONSE MUST CONTAIN ONLY THE FIRST SET OF INTERVIEW QUESTIONS.**
+
+Ask no more than three questions.
+
+Start by understanding what I am studying, what year I am in, and what I want next, using the information already provided to avoid unnecessary repetition.
+
+Do not give me a development plan or write any code in your first response.
